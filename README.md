@@ -9,7 +9,12 @@
   <p>I began my studies in 2018, when I first encountered a programming language. I have developed websites, discord bots, desktop applications, and many other cool things! I am interested in robotics and anything else that will increase my curiosity about technology.</p>
   <h3>💻 Tech & Other stuffs</h3>
   <ul>
-    <li><b>Programming Languages:</b> Javascript/Typescript, SQL, Lua & Luau, </li>
+    <li><b>Programming Languages:</b> Javascript/Typescript, SQL, Lua & Luau</li>
     <li><b>Learning:</b> C/C++, Computer Networks, CyberSec</li>
+  </ul>
+  <h3>💌 Contact me</h3>
+  <ul>
+    <li><b>Email:</b> imalicedev@gmail.com</li>
+    <li><b>Discord:</b> @star.alice</li>
   </ul>
 </div>
